@@ -12,7 +12,7 @@ Screenshot a: Successful changes made to personal webpage
   Screenshot b: Repo after all changes have been made and committed
 <img width="1440" alt="Screenshot 2023-10-01 at 9 57 11 AM" src="https://github.com/niishaaa/niishaaa.github.io/assets/98194794/2af0a01d-8748-405b-8045-06a9cc70dc98">
 
-#Activity 3: Changing the theme color of your personal website
+# Activity 3: Changing the theme color of your personal website
 Screenshot a: Successful change of theme made to personal webpage
 ![Screenshot 2023-10-01 at 11 51 42 AM](https://github.com/niishaaa/niishaaa.github.io/assets/98194794/45a3a992-875d-4f7a-8fbb-1ee9386685b1)
   Screenshot b: Repo after all changes have been made and committed
