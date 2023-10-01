@@ -294,7 +294,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(61, 204, 165, 0);
   height: 100%;
   left: 0;
   position: absolute;
@@ -322,7 +322,7 @@ h3 {
 .card li a {
   margin-right: 0;
   color: #111D13;
-  border-bottom: 2px solid #ffab40;
+  border-bottom: 2px solid #415D43;
 }
 
 .card li a:hover {
@@ -483,7 +483,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #415D43 !important;
+  color: #709775 !important;
 }
 
 .teal {
