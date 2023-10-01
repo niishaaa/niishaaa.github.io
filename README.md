@@ -18,3 +18,8 @@ Screenshot a: Successful change of theme made to personal webpage
   Screenshot b: Repo after all changes have been made and committed
 ![Screenshot 2023-10-01 at 11 52 22 AM](https://github.com/niishaaa/niishaaa.github.io/assets/98194794/5675f655-f400-4ca8-846f-e73986a96157)
 
+# Activity 4: Creating a new section and embedding Google Maps
+Screenshot a: Successful embedding and adding of icon to webpage
+![Screenshot 2023-10-01 at 1 20 02 PM](https://github.com/niishaaa/niishaaa.github.io/assets/98194794/c3c43925-8af9-4d10-935a-b891a0658fe3)
+Screenshot b: Repo after all changes have been made and committed
+![Screenshot 2023-10-01 at 1 19 32 PM](https://github.com/niishaaa/niishaaa.github.io/assets/98194794/da654e08-c317-46f7-ac4a-9cea8f714860)
